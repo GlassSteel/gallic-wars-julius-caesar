@@ -1,2 +1,10 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+.no-indent{
+	text-indent: 0;
+}
+
+table{
+	margin: 0 auto;
+}
