@@ -18,9 +18,9 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Gallic Wars</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
+		<meta property="file-as" refines="#title">Gallic Wars, The</meta>
+		<dc:subject id="subject-1">Gaul -- History -- Gallic Wars, 58-51 B.C.</dc:subject>
+		<dc:subject id="subject-2">Rome -- History -- Civil War, 49-48 B.C.</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
 		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
 		<meta property="se:subject">TAG</meta>
